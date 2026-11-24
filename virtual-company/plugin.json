@@ -1,0 +1,24 @@
+{
+  "name": "virtual-company",
+  "displayName": "Global Virtual Company",
+  "version": "1.0.0",
+  "description": "A complete global virtual software and business organization with 9 departments, 70+ senior specialists, CEO orchestrator, strict dormant-by-default activation (/company), and automated quality gates.",
+  "author": {
+    "name": "Antigravity Multi-Agent Systems Architect"
+  },
+  "keywords": [
+    "company",
+    "organization",
+    "multi-agent",
+    "orchestrator",
+    "engineering",
+    "product",
+    "design",
+    "marketing",
+    "sales",
+    "operations",
+    "qa",
+    "finance",
+    "legal"
+  ]
+}

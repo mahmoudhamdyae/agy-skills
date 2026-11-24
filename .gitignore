@@ -11,11 +11,6 @@ __pycache__/
 .dart_tool/
 node_modules/
 
-# Independent sub-repositories (tracked in their own dedicated git repositories)
-global-workflows/
-virtual-company/
-egm/
-
 # Environment files & Secrets
 .env
 .env.*
