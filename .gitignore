@@ -1,0 +1,36 @@
+# Operating System & Editor Files
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*~
+
+# Build artifacts & caches
+__pycache__/
+*.pyc
+.dart_tool/
+node_modules/
+
+# Independent sub-repositories (tracked in their own dedicated git repositories)
+global-workflows/
+virtual-company/
+egm/
+
+# Environment files & Secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.pkcs12
+*.pfx
+*.p12
+*.keystore
+*.jks
+id_rsa*
+id_ed25519*
+credentials.json
+service-account*.json
+client_secret*.json
+token.json
+auth.json
